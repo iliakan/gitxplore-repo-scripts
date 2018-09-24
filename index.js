@@ -3,7 +3,7 @@ const fs = require('fs');
 const throttle = require('lodash.throttle');
 
 const headers = {
-  'Authorization': 'token YOUR_AUTH_TOKEN',
+  'Authorization': 'token 13df8823245c9dbee8f12e9192bb11d4d6840820',
   'Accept': 'application/vnd.github.mercy-preview+json'
 };
 
